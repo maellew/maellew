@@ -2,22 +2,22 @@
 
 **AI transformation · adoption · operations**
 
-I turn business priorities into practical solutions and ways of working that people can use. My work connects strategy and execution: understanding workflows, building with teams and supporting adoption over time.
+I connect strategy, teams and execution to make AI useful in everyday work. I listen to the people doing the work, turn complex problems into clear priorities, build practical solutions and support adoption beyond the first launch.
 
 Currently Founding GTM & Operations Lead at Raison. Previously, I worked across transformation and AI enablement at Mantu and Le Wagon.
 
-## From the first conversation to daily use
+## What this looks like in practice
 
-- Understand the work, the people and the problem.
-- Prioritize opportunities according to value and feasibility.
-- Build and test practical solutions with users.
-- Support adoption, ownership and feedback.
-- Measure outcomes and improve what is not working.
+- **From scattered ideas to a roadmap:** stakeholder interviews, workflow diagnosis and use-case prioritisation.
+- **From repetitive work to a useful tool:** assistants and automations designed around operational tasks, with human review.
+- **From training to everyday adoption:** hackathons, practical team rituals and one-to-one coaching adapted to each person's work.
+- **From scattered feedback to decisions:** systems that organise customer insight, outreach activity and priorities for teams.
+- **From business need to delivery:** translating needs and constraints between business, operational and technical teams.
 
-## Explore my work
+## Explore
 
-[Case studies and field notes →](https://github.com/maellew/maelle-wache)
+[Explore my work and use cases →](https://github.com/maellew/maelle-wache)
 
-A selection of real work and clearly labelled illustrative exercises on AI adoption, operational workflows and building from zero.
+The portfolio includes real experience and clearly labelled illustrative examples. Internal information and confidential data stay private.
 
 [LinkedIn](https://www.linkedin.com/in/maellewache/) · [Email](mailto:maelle.wache@edu.escp.eu)
