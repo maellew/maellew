@@ -2,22 +2,18 @@
 
 **AI transformation · adoption · operations**
 
-I connect strategy, teams and execution to make AI useful in everyday work. I listen to the people doing the work, turn complex problems into clear priorities, build practical solutions and support adoption beyond the first launch.
+I connect strategy, technology and the people who make change happen. I like getting close to how work actually happens, finding the opportunity in a complex problem and turning it into something a team can use.
 
-Currently Founding GTM & Operations Lead at Raison. Previously, I worked across transformation and AI enablement at Mantu and Le Wagon.
+Today I am **Founding GTM & Operations Lead at Raison**, working with the team on customer discovery, go-to-market and operations for an AI adoption platform. Before that, I worked across transformation at Mantu and operational AI adoption at Le Wagon.
 
-## What this looks like in practice
+## The way I work
 
-- **From scattered ideas to a roadmap:** stakeholder interviews, workflow diagnosis and use-case prioritisation.
-- **From repetitive work to a useful tool:** assistants and automations designed around operational tasks, with human review.
-- **From training to everyday adoption:** hackathons, practical team rituals and one-to-one coaching adapted to each person's work.
-- **From scattered feedback to decisions:** systems that organise customer insight, outreach activity and priorities for teams.
-- **From business need to delivery:** translating needs and constraints between business, operational and technical teams.
+- I listen across levels and disciplines, from leadership priorities to everyday workflows.
+- I turn interviews and observations into clear choices, priorities and roadmaps.
+- I build practical tools and connect business needs with technical execution.
+- I bring people along through hackathons, team rituals and one-to-one support.
+- I follow up on adoption, feedback and the outcomes that matter.
 
-## Explore
-
-[Explore my work and use cases →](https://github.com/maellew/maelle-wache)
-
-The portfolio includes real experience and clearly labelled illustrative examples. Internal information and confidential data stay private.
+[Explore my work and approach →](https://github.com/maellew/maelle-wache)
 
 [LinkedIn](https://www.linkedin.com/in/maellewache/) · [Email](mailto:maelle.wache@edu.escp.eu)
